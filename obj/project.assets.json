@@ -1497,6 +1497,7 @@
       "packagesPath": "/home/owl/.nuget/packages/",
       "outputPath": "/mnt/maindrive/Projects/DictionaryApp/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/home/owl/.nuget/NuGet/NuGet.Config"
       ],
